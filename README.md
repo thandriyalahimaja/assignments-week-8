@@ -1,6 +1,17 @@
 # MERN Assignments – Week 8
 
 ## Project Overview
+Purpose:
+
+Learn REST API development
+Connect React frontend with Express backend
+Practice CRUD operations
+Understand API calls using frontend
+Learn routing in React
+Understand backend server setup
+Main Goal
+
+To build a simple full-stack application where frontend and backend communicate with each other.
 
 This project is a simple MERN stack application built using:
 
